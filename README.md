@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Gargee1989
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Gargee, a struggling student of Software Development (Gauhati University) & Data Science (IITG)
 - 🌱 I’m currently learning java and c programming
 - 📫 Reach me through my email: k.gargee2005@gmail.com
 - 😄 Pronouns: she/her
