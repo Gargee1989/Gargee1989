@@ -4,7 +4,7 @@
 🌱 I’m currently learning java and c programming, with a sprinkle of R & Python on the side <br>
 🌻 Pronouns: ✨ she/her ✨<br>
 📫 Reach me through my email: k.gargee2005@gmail.com <br>
-🔗 My portfolio (trial 1): [Click Here](https://gargeekakaty.my.canva.site/) <br>
+🔗 My design portfolio (trial 1): [Click Here](https://gargeekakaty.my.canva.site/) <br>
 ⚡ Fun fact: I love reading thrillers and gaming. <br> 
 
  (P.S. I also do some basic designing stuff) 
