@@ -18,24 +18,14 @@ public class Gargee {
     String[] studying = { "Software Development @ Gauhati University",
                           "Data Science @ IIT Guwahati" };
     String[] coding   = { "Java", "C", "R", "Python" };
-    String[] web_dev  = {"HTML", "CSS", "JS", "XML"}
+    String[] web_dev  = {"HTML", "CSS", "JS", "XML"};
     String[] others   = { "Reading thrillers", "Gaming", "Designing" };
-
+    String[] contact  = {"k.gargee2005@gmail.com"};
     String status = "compiling... (learning something new every day)";
 }
 ```
 
 <br/>
-
-## `> ./contact.sh`
-
-<div align="center">
-
-<a href="mailto:k.gargee2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer banner" />
 
